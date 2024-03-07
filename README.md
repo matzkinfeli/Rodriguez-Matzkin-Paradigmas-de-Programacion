@@ -1,1 +1,1 @@
-# Rodriguez-Matzkin-Paradigmas-de-Programaci-n
+# Rodriguez-Matzkin-Paradigmas-de-Programacion
